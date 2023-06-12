@@ -8,7 +8,10 @@ Welcome to my GitHub profile! I'm passionate about coding and problem-solving.
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Front-End Projects
 - 📫 How to reach me: vishalgiri197@gmail.com
-
+- 
+## Portfolio
+Please visit my portfolio website to explore my work and learn more about me:
+[Link to Portfolio](https://vishalG197.gihub.io)
 ## Projects
 
 Here are some of the projects I've worked on:
