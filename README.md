@@ -9,6 +9,10 @@ Welcome to my GitHub profile! I'm passionate about coding and problem-solving.
 - 👯 I’m looking to collaborate on Front-End Projects
 - 📫 How to reach me: vishalgiri197@gmail.com
 - 
+##Link
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vishalG197.gihub.io)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-giri-833180175/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_As_U_Vish-xk9se/featured)
 ## Portfolio
 Please visit my portfolio website to explore my work and learn more about me:
 [Link to Portfolio](https://vishalG197.gihub.io)
@@ -17,15 +21,15 @@ Please visit my portfolio website to explore my work and learn more about me:
 Here are some of the projects I've worked on:
 
 - [shopExpres.com]([link-to-project-1](https://marvelous-crostata-edb007.netlify.app/)): my first project in the development world
-- [Buyfashion.com]([link-to-project-2](https://fastidious-melba-d436e9.netlify.app/)):my first collabrative project
+- [Buyfashion.com]([link-to-project-2](https://fastidious-melba-d436e9.netlify.app/)):my first collaborative project
 - [vintra.com](link-to-project-3): first React project
 
 Feel free to explore my repositories for more projects and code samples!
 
 ## Skills
 
-- Programming Languages: HTML,CSS,javascript,React ,typescript
-- Frameworks and Libraries:Redux,chakra-ui,Mangodb,Express
+- Programming Languages: HTML, CSS, javascript, React, typescript
+- Frameworks and Libraries: Redux,chakra-ui, MongoDB, Express
 - Tools and Technologies: Nodejs
 
 <!-- ## Contributions
