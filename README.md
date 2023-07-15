@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about coding and problem-solving.
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_As_U_Vish-xk9se/featured)
 ## Portfolio
 Please visit my portfolio website to explore my work and learn more about me:
-[Link to Portfolio](https://vishalG197.gihub.io)
+Portfolio--> https://vishalG197.gihub.io
 ## Projects
 
 Here are some of the projects I've worked on:
