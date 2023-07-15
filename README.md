@@ -8,14 +8,13 @@ Welcome to my GitHub profile! I'm passionate about coding and problem-solving.
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Front-End Projects
 - 📫 How to reach me: vishalgiri197@gmail.com
-- 
+- Portfolio--> https://vishalG197.gihub.io
 ##Link
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vishalG197.gihub.io)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-giri-833180175/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_As_U_Vish-xk9se/featured)
-## Portfolio
-Please visit my portfolio website to explore my work and learn more about me:
-Portfolio--> https://vishalG197.gihub.io
+
+
 ## Projects
 
 Here are some of the projects I've worked on:
