@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I'm passionate about coding and problem-solving.
 
 
 ##Link
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vishalG197.gihub.io)
+<!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vishalG197.gihub.io) -->
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-giri-833180175/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_As_U_Vish-xk9se/featured)
 
@@ -64,7 +65,7 @@ I occasionally write blog posts on various topics. Check out my latest articles:
 
 You can find me on the web through the following channels:
 
-<!-- - Personal Website: [Link to your personal website] -->
+- Personal Website: [vishalG197.github.io](https://vishalG197.gihub.io)
 - LinkedIn: [[vishal-giri]](https://www.linkedin.com/in/vishal-giri-833180175/)
 <!-- - Twitter: [Your Twitter handle] -->
 - Email: [vishalgiri197.gmail.com]
