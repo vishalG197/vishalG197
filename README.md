@@ -1,6 +1,6 @@
 # Hello, I'm Vishal Giri 👋
 
-Welcome to my GitHub profile! I'm passionate about coding and problem-solving.
+Welcome to my portfolio! I'm passionate about coding and problem-solving.
 
 ## About Me
 
