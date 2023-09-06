@@ -1,7 +1,6 @@
 # Hello, I'm Vishal Giri 👋
 
-Welcome to my portfolio! I'm passionate about coding and problem-solving.
-
+Hello! Welcome to my GitHub profile! Full stack web developer proficient in HTML, CSS, JavaScript, and React. Completed comprehensive web development course.
 ## About Me
 
 - 💼 Full Stack Web Developer | MERN Stack
