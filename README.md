@@ -57,8 +57,7 @@ I enjoy contributing to the open-source community and helping others. Some of my
 I occasionally write blog posts on various topics. Check out my latest articles:
 
 - [Blog Post 1](link-to-blog-post-1): Brief summary or key takeaways
-- [Blog Post 2](link-to-blog-post-2): Brief summary or key takeaways
-- [Blog Post 3](link-to-blog-post-3): Brief summary or key takeaways -->
+ -->
 
 ## Connect with Me
 
