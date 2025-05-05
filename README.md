@@ -1,15 +1,14 @@
-
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello, I'm Vishal Giri
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;React+Enthusiast;Passionate+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;React+%26+React+Native+Developer;E-Commerce+Solutions+Expert;AI+Integration+Specialist;Enterprise+Solutions+Developer" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
 I'm a Full Stack Web Developer passionate about creating seamless web experiences. With expertise in the MERN stack, I transform ideas into functional, user-friendly applications.
 
-- 🔭 I'm currently working on **advancing my React skills**
-- 🌱 I'm learning **TypeScript & advanced React patterns**
+- 🔭 I'm currently working on **advancing my React skills & enterprise solutions**
+- 🌱 I'm learning **Next.js, React Native & AI-powered search solutions**
 - 👯 I'm looking to collaborate on **innovative Front-End Projects**
 - 💬 Ask me about **JavaScript, React, and Web Development**
 - 📫 Reach me at: **vishalgiri197@gmail.com**
@@ -78,6 +77,7 @@ I'm a Full Stack Web Developer passionate about creating seamless web experience
 <p align="left">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
