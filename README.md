@@ -33,18 +33,49 @@ I'm a Full Stack Web Developer passionate about creating seamless web experience
 </p>
 
 ## 💻 Tech Stack
+
+### Frontend & Mobile Development
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+</p>
+
+### Backend & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### E-Commerce & CMS
+<p align="left">
+  <img src="https://img.shields.io/badge/Vendure-13B5EA?style=for-the-badge&logo=shopify&logoColor=white" alt="Vendure" />
+  <img src="https://img.shields.io/badge/Commerce_Tools-FC5000?style=for-the-badge&logo=commercetools&logoColor=white" alt="Commerce Tools" />
+  <img src="https://img.shields.io/badge/Emporix-5468FF?style=for-the-badge&logoColor=white" alt="Emporix" />
+  <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful" />
+</p>
+
+### Enterprise Solutions & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/HCL_Voltmx-0078D4?style=for-the-badge&logo=hcl&logoColor=white" alt="HCL Voltmx" />
+  <img src="https://img.shields.io/badge/HCL_Foundry-003A70?style=for-the-badge&logo=hcl&logoColor=white" alt="HCL Foundry" />
+  <img src="https://img.shields.io/badge/HCL_DX-00539F?style=for-the-badge&logo=hcl&logoColor=white" alt="HCL DX" />
+  <img src="https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&logo=algolia&logoColor=white" alt="Algolia" />
+  <img src="https://img.shields.io/badge/Typesense-5D3FD3?style=for-the-badge&logo=search&logoColor=white" alt="Typesense" />
+  <img src="https://img.shields.io/badge/AI_Solutions-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Solutions" />
+</p>
+
+### DevOps & Tools
+<p align="left">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
