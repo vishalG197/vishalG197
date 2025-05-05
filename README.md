@@ -140,6 +140,7 @@ I'm a Full Stack Web Developer with 1+ year of experience building modern web ap
     <img src="https://img.shields.io/badge/Bugs%20Squashed-countless-red" alt="Bugs Squashed">
     <img src="https://img.shields.io/badge/Coffee%20Consumed-∞-brown" alt="Coffee Consumed">
   </p>
+  
   <img src="https://streak-stats.demolab.com?user=denvercoder1&theme=radical&border_radius=20" alt="streak"/>
 </div>
 
